@@ -1,0 +1,17 @@
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.exe
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.deps.json
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.runtimeconfig.json
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.dll
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\InventoryManagement.pdb
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.AssemblyInfo.cs
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.csproj.CopyComplete
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.dll
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\refint\InventoryManagement.dll
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.pdb
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\InventoryManagement.genruntimeconfig.cache
+C:\Users\Achal\source\repos\InventoryManagement\InventoryManagement\obj\Debug\net6.0\ref\InventoryManagement.dll
